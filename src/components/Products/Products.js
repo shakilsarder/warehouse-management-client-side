@@ -6,7 +6,7 @@ import Loading from '../Loading/Loading';
 
 const Products = () => {
     const [products] = useInventory();
-    const sliceProducts = products.slice(0, 8);
+    const sliceProducts = products.slice(0, 6);
     return (
         <div className='container'>
             <div>
