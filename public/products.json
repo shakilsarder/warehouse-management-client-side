@@ -1,0 +1,65 @@
+[
+    {
+        "img": "https://www.ryanscomputers.com/cdn/products/medium/hp-15s-du1117tu-intel-pqc-silver-n5030-156-inch-11649648992.webp",
+        "description": "HP 15s-du1117TU Intel PQC Silver N5030 15.6 Inch HD Display Silver Laptop",
+        "name": "HP NOTEBOOK",
+        "price": "42500",
+        "quantity": "50"
+    },
+    {
+        "img": "https://www.ryanscomputers.com/cdn/products/medium/lenovo-ideapad-d330-10igl-intel-cdc-n4020-101-11646051236.webp",
+        "description": "Lenovo IdeaPad D330 10IGL Intel CDC N4020 10.1 Inch HD IPS Touch Display Mineral Grey Laptop",
+        "name": "Lenovo IdeaPad",
+        "price": "65000",
+        "quantity": "30"
+    },
+    {
+        "img": "https://www.ryanscomputers.com/cdn/products/medium/chuwi-herobook-pro-intel-cdc-n4000-grey-11584267848.webp",
+        "description": "Chuwi HeroBook Pro Intel CDC N4020 14.1 Inch FHD IPS Display Grey Laptop",
+        "name": "Chuwi HeroBook",
+        "price": "29500",
+        "quantity": "120"
+    },
+    {
+        "img": "https://www.ryanscomputers.com/cdn/products/medium/razer-blade-15-base-intel-core-i7-10750h-156-11619324269.webp",
+        "description": "Razer Blade 15 Base Intel Core i7 10750H 15.6 Inch FHD Matte Display Black Laptop",
+        "name": "Razer Blade",
+        "price": "120000",
+        "quantity": "25"
+    },
+    {
+        "img": "https://www.ryanscomputers.com/cdn/products/medium/gigabyte-aorus-5-mb-10th-gen-intel-core-i5-10200h-11605163532.webp",
+        "description": "Gigabyte AORUS 5 MB Intel Core i5 10200H 15.6 Inch FHD Display Win 10 Matte Black Gaming Laptop",
+        "name": "Gigabyte AORUS ",
+        "price": "96500",
+        "quantity": "35"
+    },
+    {
+        "img": "https://www.ryanscomputers.com/cdn/products/medium/apple-macbook-air-late-2020-apple-m1-chip-8gb-11607920676.webp",
+        "description": "Apple MacBook Air Late 2020 Apple M1 Chip 13.3 Inch Retina Display Touch ID Gold MacBook",
+        "name": "Apple MacBook Air Late",
+        "price": "109000",
+        "quantity": "10"
+    },
+    {
+        "img": "https://www.ryanscomputers.com/cdn/products/medium/avita-liber-8th-gen-intel-core-i5-8250u-matt-11581580298.webp",
+        "description": "Avita LIBER Intel Core i5 8250U 13.3 Inch FHD IPS Display Matt Black Laptop ",
+        "name": "Avita LIBER",
+        "price": "66100",
+        "quantity": "45"
+    },
+    {
+        "img": "https://www.ryanscomputers.com/cdn/products/medium/microsoft-surface-go-2-intel-core-m3-105-inch-11633417370.webp",
+        "description": "Microsoft Surface Go 2 Intel Core M3 10.5 Inch Platinum Surface Go Laptop",
+        "name": "Microsoft Surface Go",
+        "price": "67400",
+        "quantity": "29"
+    },
+    {
+        "img": "https://www.ryanscomputers.com/cdn/products/medium/huawei-matebook-d-15-intel-core-i5-1135g7-156-11648619043.webp",
+        "description": "Huawei MateBook D 15 Intel Core i5 1135G7 15.6 Inch FHD Finger Print Sensor Silver Laptop",
+        "name": "Huawei MateBook",
+        "price": "73900",
+        "quantity": "32"
+    }
+]
