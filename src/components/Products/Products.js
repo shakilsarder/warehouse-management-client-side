@@ -11,7 +11,7 @@ const Products = () => {
         <div className='container'>
             <div>
                 <div className='text-center my-3'>
-                    <h2 className='text-secondary fs-1 fw-bold'>Our Inventories</h2>
+                    <h2 className='text-secondary fs-1 fw-bold'>Our Products Inventories</h2>
                 </div>
                 <div>
                     {products.length <= 0 && (<Loading />)}

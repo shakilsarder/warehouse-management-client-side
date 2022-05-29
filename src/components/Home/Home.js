@@ -34,12 +34,12 @@ const Home = () => {
                     <h2 className='text-secondary fs-1 fw-bold'>Our Best Sellers</h2>
                 </div>
                 <div className='d-md-flex align-items-center justify-content-between'>
-                    <img src={hp} alt="" />
-                    <img className='ms-2' src={lenovo} alt="" />
-                    <img src={mac} alt="" />
-                    <img src={asus} alt="" />
-                    <img src={dell} alt="" />
-                    <img className='ms-3' src={acer} alt="" />
+                    <Link to='/home'><img src={hp} alt="" /></Link>
+                    <Link to='/home'><img className='ms-2' src={lenovo} alt="" /></Link>
+                    <Link to='/home'><img src={mac} alt="" /></Link>
+                    <Link to='/home'><img src={asus} alt="" /></Link>
+                    <Link to='/home'><img src={dell} alt="" /></Link>
+                    <Link to='/home'><img className='ms-3' src={acer} alt="" /></Link>
                 </div>
 
             </div>
