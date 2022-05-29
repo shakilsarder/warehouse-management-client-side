@@ -17,8 +17,8 @@ const Home = () => {
             <div className='d-md-flex  justify-content-evenly align-items-center'>
 
                 <div className='p-5 '>
-                    <h2 className='text-secondary fw-bold'>About Laptop House</h2>
-                    <p className=' w-100 text-dark text-align fs-4'>we are the World best trustable  because We supply all major brands including; Dell, HP, Toshiba, Acer, Apple, Asus, Fujitsu & Lenovo, Promethean, MSI, Smart and many more. As a fast growing supplier we can source everything from a mouse right up to a complete IT Suite. </p>
+                    <h2 className='text-secondary fw-bold'>About <span className='text-info' >Laptop WareHouse</span></h2>
+                    <p className=' w-100 text-dark text-align fs-4'>We are the World best trustable  because We supply all major brands including; Dell, HP, Toshiba, Acer, Apple, Asus, Fujitsu & Lenovo, Promethean, MSI, Smart and many more. As a fast growing supplier we can source everything from a mouse right up to a complete IT Suite. </p>
                 </div>
                 <div className='p-5 '>
                     <img className='w-100' src={img} alt="" />
@@ -31,15 +31,15 @@ const Home = () => {
 
             <div className='bg-light py-3 px-5'>
                 <div className='text-center mb-5 '>
-                    <h2 className='text-secondary fs-1 fw-bold'>Our Best Sellers</h2>
+                    <h2 className='text-success fs-1 fw-bold'>Our Best Sellers Partners</h2>
                 </div>
                 <div className='d-md-flex align-items-center justify-content-between'>
-                    <Link to='/home'><img src={hp} alt="" /></Link>
-                    <Link to='/home'><img className='ms-2' src={lenovo} alt="" /></Link>
-                    <Link to='/home'><img src={mac} alt="" /></Link>
-                    <Link to='/home'><img src={asus} alt="" /></Link>
-                    <Link to='/home'><img src={dell} alt="" /></Link>
-                    <Link to='/home'><img className='ms-3' src={acer} alt="" /></Link>
+                    <Link to='/products'><img src={hp} alt="" /></Link>
+                    <Link to='/products'><img className='ms-2' src={lenovo} alt="" /></Link>
+                    <Link to='/products'><img src={mac} alt="" /></Link>
+                    <Link to='/products'><img src={asus} alt="" /></Link>
+                    <Link to='/products'><img src={dell} alt="" /></Link>
+                    <Link to='/products'><img className='ms-3' src={acer} alt="" /></Link>
                 </div>
 
             </div>

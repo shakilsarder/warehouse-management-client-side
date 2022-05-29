@@ -25,7 +25,7 @@ const Footer = () => {
                     <div className="col-lg-2 col-md-6 col-sm-12">
                         <div className="row text-lg-start text-center">
                             <div className="col-lg-12 col-md-12 mb-3">
-                                <h5 className="text-white mt-3">Get The App</h5>
+                                <h5 className="text-white mt-3">Get Our App</h5>
 
                             </div>
                             <div className="col-lg-12 col-md-12 col-sm-12 mb-3">

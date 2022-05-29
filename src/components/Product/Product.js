@@ -11,8 +11,8 @@ const Product = ({ product }) => {
 
     return (
 
-        <div className="col">
-            <div className="card h-100 text-start">
+        <div className="col ">
+            <div className="bg-info card h-100 text-start">
                 <img src={img} className="card-img-top" alt="..." />
                 <div className="card-body">
                     <h4 className="card-title">{name}</h4>
@@ -21,7 +21,7 @@ const Product = ({ product }) => {
                     <p className="card-text fw-bold">Quantity: {quantity}</p>
                 </div>
                 <div className='text-center mb-2'>
-                    <button className='btn btn-secondary'>   <Link className='text-decoration-none text-white text-center fw-bold' to={`/inventory/${_id}`}>Stock Update</Link></button>
+                    <button className='btn btn-success'>   <Link className='text-decoration-none text-white text-center fw-bold' to={`/inventory/${_id}`}>Stock Update</Link></button>
                 </div>
             </div>
         </div>
