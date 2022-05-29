@@ -95,7 +95,7 @@ const Login = () => {
             </Form>
             {errorElement}
 
-            <p>New to WareHouse? <Link to="/register" className='text-danger pe-auto text-decoration-none' onClick={navigateRegister}>Please Register</Link> </p>
+            <p>New to Here? <Link to="/register" className='text-danger pe-auto text-decoration-none' onClick={navigateRegister}>Please Register</Link> </p>
             <p className='d-md-flex align-items-center'>Forget Password? <button className='btn btn-link text-danger pe-auto text-decoration-none' onClick={resetPassword}>Reset Password</button> </p>
 
             <div>
