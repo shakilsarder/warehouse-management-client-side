@@ -1,5 +1,5 @@
 
-import img from '../../images/pngegg (1).png'
+import img from '../../images/laptops-header.png'
 import hp from '../../images/hp (1).png'
 import lenovo from '../../images/lenovo (1).png'
 import mac from '../../images/mac (1).png'
@@ -9,6 +9,7 @@ import acer from '../../images/acer (2).png'
 import Products from '../Products/Products';
 import './Home.css'
 import { Link } from 'react-router-dom'
+import Contact from '../QuesAns/Contact'
 
 const Home = () => {
 
@@ -46,7 +47,7 @@ const Home = () => {
 
             <div className='bg-light px-3'>
                 <div className='text-center mt-5'>
-                    <h2 className='text-secondary fs-1 fw-bold'>Delivery</h2>
+                    <h2 className='text-secondary fs-1 fw-bold'>Our Delivery Info</h2>
                 </div>
                 <div className='mb-5 mt-3 fs-4 text-align'>
                     <p>Our suppliers supply the original and fresh products which is directly imported from main origin. Our service is “First Class” with next day delivery as standard and quotations returned promptly. We offer extremely competitive prices as we work closely with manufacturers and suppliers in order to obtain the very best prices. The success of our business has been on our reputation and long standing relationships with satisfied customers. All tracking id will sent by emailed.</p>
@@ -55,6 +56,7 @@ const Home = () => {
                 </div>
 
             </div>
+            <Contact></Contact>
 
 
         </div>
